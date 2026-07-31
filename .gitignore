@@ -1,6 +1,6 @@
 # --- Custom Directory Exclusion ---
 # Folders excluded
-archivee/
+archive/
 
 # --- FreeCAD Backup & Auto-Save Files ---
 *.FCStd1
