@@ -1,0 +1,13 @@
+# --- Custom Directory Exclusion ---
+# Folders excluded
+archivee/
+
+# --- FreeCAD Backup & Auto-Save Files ---
+*.FCStd1
+*.~FCStd
+*.FCBak
+*.lock
+
+# --- OS & System Artifacts ---
+.DS_Store
+Thumbs.db
